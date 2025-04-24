@@ -23,4 +23,4 @@ Une horloge graphique en Python qui prend tout l'espace de l'écran, inspirée d
 ### Exécution
 
 ```bash
-python horloge.py
+python clock.py
